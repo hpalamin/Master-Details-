@@ -1,2 +1,2 @@
-# Master-Details-
+# Master-Details
 Tour Management System
